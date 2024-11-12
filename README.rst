@@ -489,6 +489,8 @@ News
 
 * Support for Python 2 has been removed, Tempita is now Python 3 only.
 
+* Codebase has been partially modernized to ensure compatibility with modern Python versions.
+
 * Tests rewritten to use ``unittest`` instead of ``nose``
 
 0.5
