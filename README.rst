@@ -5,7 +5,7 @@ Tempita Templating Engine
 =========================
 
 :author: Ian Bicking <ianb@colorstudy.com>
-:source: https://bitbucket.org/ianb/tempita
+:source: https://github.com/TurboGears/tempita
 
 
 Status & License
