@@ -1,7 +1,6 @@
-from setuptools import setup, find_packages
-import sys, os
+from setuptools import setup
 
-version = '0.5.1'
+version = '0.5.3'
 
 setup(name='Tempita',
       version=version,
